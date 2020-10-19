@@ -19,11 +19,10 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li><a href="https://github.com/LeoZorzoli/Biopage">First: Biopage</a></li>
   <li><a href="https://github.com/LeoZorzoli/Books">Second: Books</a></li>
   <li><a href="https://github.com/LeoZorzoli/Flack">Third: Flack</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Wiki"></a>Fourth : Wiki</li>
+  <li><a href="https://github.com/LeoZorzoli/Wiki">Fourth : Wiki</a></li>
   <li><a href="https://github.com/LeoZorzoli/Network">Fifth: Network</a></li>
   <li><a href="https://github.com/LeoZorzoli/Commerce">Sixth: Commerce</a></li>
   <li><a href="https://github.com/LeoZorzoli/Newspaper">Final project: Newspaper</a></li>
 </ul>
 
-https://github.com/LeoZorzoli/Books
 
