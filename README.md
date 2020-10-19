@@ -6,11 +6,11 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 
 
 <div align="center">
-  <p height="16px">Associated Schools</p>
+  <p>Associated Schools</p>
   <a href="#">
     <img alt="Harvard" src="https://online-learning.harvard.edu/sites/default/files/shields/harvard-engineering.png" />
   </a>
-  <p height="16px">Harvard School of Engineering and Applied Sciences</p>
+  <p>Harvard School of Engineering and Applied Sciences</p>
 </div>
 
 
