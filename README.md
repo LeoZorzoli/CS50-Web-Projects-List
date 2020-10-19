@@ -8,4 +8,5 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <a href="#">
   <img alt="Harvard" src="https://online-learning.harvard.edu/sites/default/files/shields/harvard-engineering.png" />
 </a>
-### Associated Schools
+
+### Harvard School of Engineering and Applied Sciences
