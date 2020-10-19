@@ -1,4 +1,4 @@
-<a href="https://cs50.harvard.edu/web/2020/>
+<a href="https://cs50.harvard.edu/web/2020/">
   Link to CS50's Web Programming course: 
 </a>
 
@@ -8,4 +8,4 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <a href="#">
   <img alt="Harvard" src="https://online-learning.harvard.edu/sites/default/files/shields/harvard-engineering.png" />
 </a>
-## Associated Schools
+### Associated Schools
