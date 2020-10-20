@@ -16,13 +16,13 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 
 ### List of my Projects
 <ul>
-  <li><a href="https://github.com/LeoZorzoli/Biopage">First: Biopage</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Books">Second: Books</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Flack">Third: Flack</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Wiki">Fourth : Wiki</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Network">Fifth: Network</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Commerce">Sixth: Commerce</a></li>
-  <li><a href="https://github.com/LeoZorzoli/Newspaper">Final project: Newspaper</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Biopage">First: Biopage - 2018 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Books">Second: Books - 2018 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Flack">Third: Flack - 2018 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Wiki">Fourth : Wiki - 2020 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Network">Fifth: Network - 2020 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Commerce">Sixth: Commerce - 2020 Course version</a></li>
+  <li><a href="https://github.com/LeoZorzoli/Newspaper">Final project: Newspaper - 2020 Course version</a></li>
 </ul>
 
 
