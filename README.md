@@ -28,7 +28,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>:newspaper: <a href="https://github.com/LeoZorzoli/Newspaper">Final project: Newspaper - 2020 Course version</a></li>
 </ul>
 
-**Languages and Tools for the Projects:**  
+### Languages and Tools for the Projects: 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
