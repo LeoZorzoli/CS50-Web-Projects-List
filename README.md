@@ -17,12 +17,12 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 ### List of my Projects
 <ul>
   <li>:clipboard: First: Biopage - 2018 Course version <a href="https://github.com/LeoZorzoli/Biopage">Github</a></li>
-  <li>:books: Second: Books - 2018 Course version <a href="https://github.com/LeoZorzoli/Books">Github</a> - <a href="https://leo-books.herokuapp.com/">Live</a></li>
+  <li>:books: Second: Books - 2018 Course version <a href="https://github.com/LeoZorzoli/Books">Github</a> - :fast_forward: <a href="https://leo-books.herokuapp.com/">Live</a></li>
   <li>:fax: Third: Flack - 2018 Course version <a href="https://github.com/LeoZorzoli/Flack">Github</a></li>
-  <li>:bookmark_tabs: Fourth : Wiki - 2020 Course version <a href="https://github.com/LeoZorzoli/Wiki">Github</a> - <a href="https://leo-wiki.herokuapp.com/">Live</a></li>
-  <li>:mailbox: Fifth: Network - 2020 Course version <a href="https://github.com/LeoZorzoli/Network">Github</a> - <a href="https://leo-network.herokuapp.com/">Live</a></li>
+  <li>:bookmark_tabs: Fourth : Wiki - 2020 Course version <a href="https://github.com/LeoZorzoli/Wiki">Github</a> - :fast_forward: <a href="https://leo-wiki.herokuapp.com/">Live</a></li>
+  <li>:mailbox: Fifth: Network - 2020 Course version <a href="https://github.com/LeoZorzoli/Network">Github</a> - :fast_forward: <a href="https://leo-network.herokuapp.com/">Live</a></li>
   <li>:dollar: Sixth: Commerce - 2020 Course version <a href="https://github.com/LeoZorzoli/Commerce">Github</a></li>
-  <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
+  <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - :fast_forward: <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
 </ul>
 
 ### Languages and Tools for the Projects: 
