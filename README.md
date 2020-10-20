@@ -20,12 +20,12 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
     :clipboard: 
     <a href="https://github.com/LeoZorzoli/Biopage">First: Biopage - 2018 Course version</a>   
   </li>
-  <li>:books: <a href="https://github.com/LeoZorzoli/Books">Second: Books - 2018 Course version</a></li>
-  <li>:fax: <a href="https://github.com/LeoZorzoli/Flack">Third: Flack - 2018 Course version</a></li>
-  <li>:bookmark_tabs: <a href="https://github.com/LeoZorzoli/Wiki">Fourth : Wiki - 2020 Course version</a></li>
-  <li>:mailbox: <a href="https://github.com/LeoZorzoli/Network">Fifth: Network - 2020 Course version</a></li>
-  <li>:dollar: <a href="https://github.com/LeoZorzoli/Commerce">Sixth: Commerce - 2020 Course version</a></li>
-  <li>:newspaper: <a href="https://github.com/LeoZorzoli/Newspaper">Final project: Newspaper - 2020 Course version</a></li>
+  <li>:books: Second: Books - 2018 Course version <a href="href="https://github.com/LeoZorzoli/Books">Github</a></li>
+  <li>:fax: Third: Flack - 2018 Course version <a href="https://github.com/LeoZorzoli/Flack">Github</a></li>
+  <li>:bookmark_tabs: Fourth : Wiki - 2020 Course version <a href="https://github.com/LeoZorzoli/Wiki">Github</a></li>
+  <li>:mailbox: Fifth: Network - 2020 Course version <a href="https://github.com/LeoZorzoli/Network">Github</a></li>
+  <li>:dollar: Sixth: Commerce - 2020 Course version <a href="https://github.com/LeoZorzoli/Commerce">Github</a></li>
+  <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a></li>
 </ul>
 
 ### Languages and Tools for the Projects: 
