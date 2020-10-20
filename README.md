@@ -1,4 +1,4 @@
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. This is the list of my projects for the course CS50’s Web Programming with Python and JavaScript
 
