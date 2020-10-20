@@ -11,7 +11,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
     <img alt="Harvard" src="https://online-learning.harvard.edu/sites/default/files/shields/harvard-engineering.png" />
   </a>
   <p>Harvard School of Engineering and Applied Sciences</p>
-  <a href="https://brianyu.me/">Instructor: Brian Yu </a>
+  <a href="https://www.edx.org/es/bio/brian-yu">Instructor: Brian Yu </a>
 </div>
 
 ### List of my Projects
