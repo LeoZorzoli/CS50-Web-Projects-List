@@ -19,9 +19,9 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>
     :clipboard: 
     <a href="https://github.com/LeoZorzoli/Biopage">First: Biopage - 2018 Course version</a>   
-    ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   </li>
+   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   <li>:books: <a href="https://github.com/LeoZorzoli/Books">Second: Books - 2018 Course version</a></li>
   <li>:fax: <a href="https://github.com/LeoZorzoli/Flack">Third: Flack - 2018 Course version</a></li>
   <li>:bookmark_tabs: <a href="https://github.com/LeoZorzoli/Wiki">Fourth : Wiki - 2020 Course version</a></li>
