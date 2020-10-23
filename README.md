@@ -28,6 +28,8 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - :fast_forward: <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
 </ul>
 
+<a href="https://www.youtube.com/user/MrLeoNidasZZ/videos">Watch the videos in youtube</a>
+
 ### Languages and Tools for the Projects: 
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
