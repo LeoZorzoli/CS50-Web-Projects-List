@@ -24,7 +24,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>:fax: Second: Flack - 2018 Course version <a href="https://github.com/LeoZorzoli/Flack">Github</a></li>
   <li>:bookmark_tabs: Third : Wiki - 2020 Course version <a href="https://github.com/LeoZorzoli/Wiki">Github</a> - :fast_forward: <a href="https://leo-wiki.herokuapp.com/">Live</a></li>
   <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com/LeoZorzoli/Network">Github</a> - :fast_forward: <a href="https://leo-network.herokuapp.com/">Live</a></li>
-  <li>:dollar: Fifth: Commerce - 2020 Course version <a href="https://github.com/LeoZorzoli/Commerce">Github</a> - :fast_forward: <a href="https://leo-commerce.herokuapp.com/">Live</a></li>
+  <li>:tshirt: Fifth: Commerce - 2020 Course version <a href="https://github.com/LeoZorzoli/Commerce">Github</a> - :fast_forward: <a href="https://leo-commerce.herokuapp.com/">Live</a></li>
   <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - :fast_forward: <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
 </ul>
 
