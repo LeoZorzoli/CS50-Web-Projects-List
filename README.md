@@ -32,11 +32,11 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 
 | Project | Name                       | Description                                                        | Demo                                                         | Video                                   |
 | :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :-------------------------------------- |
-| 1    | <a href="https://github.com/LeoZorzoli/Books">Books</a> | Determines how many “degrees of separation” apart two actors are   | <a href="https://leo-books.herokuapp.com/">Live</a>|
-| 2    | <a href="https://github.com/LeoZorzoli/Flack">Flask</a> | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | `$ python runner.py`                                                  |
-| 3    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
-| 4    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
-| 5    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
-| 6    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
+| 1    | <a href="https://github.com/LeoZorzoli/Books">Books</a> | Determines how many “degrees of separation” apart two actors are   | <a href="https://leo-books.herokuapp.com/">Demo</a> |
+| 2    | <a href="https://github.com/LeoZorzoli/Flack">Flask</a> | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | <a href="https://leo-flack.herokuapp.com/">Demo</a> |
+| 3    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-wiki.herokuapp.com/">Demo</a> |
+| 4    | <a href="https://github.com/LeoZorzoli/Network">Network</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-network.herokuapp.com/">Demo</a> |
+| 5    | <a href="https://github.com/LeoZorzoli/Commerce">Commerce</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-commerce.herokuapp.com/">Demo</a> |
+| 6    | <a href="https://github.com/LeoZorzoli/Newspaper">Newspaper</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-newspaper.herokuapp.com/">Demo</a> |
 
 
