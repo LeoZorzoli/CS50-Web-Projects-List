@@ -31,7 +31,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 ### List of my Projects
 
 | Project | Name                       | Description                                                        | Demo                                                         | Video                                   |
-| :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :-------------------------------------- |
+| :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------------------: |
 | 1    | <a href="https://github.com/LeoZorzoli/Books">Books</a> | Determines how many “degrees of separation” apart two actors are   | <a href="https://leo-books.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=CNeXyoyiLeo">Youtube</a> |
 | 2    | <a href="https://github.com/LeoZorzoli/Flack">Flask</a> | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | <a href="https://leo-flack.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=6bWu8Z-7au8">Youtube</a> |
 | 3    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-wiki.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=O90jSuN0BcU">Youtube</a> |
