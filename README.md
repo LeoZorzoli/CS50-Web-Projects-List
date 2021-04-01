@@ -28,19 +28,12 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - :fast_forward: <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
 </ul>
 
-<a href="https://www.youtube.com/user/MrLeoNidasZZ/videos">Watch the videos in youtube</a>
+### List of my Projects
 
-### Languages and Tools for the Projects: 
+| Week | Topic            | Name                       | Description                                                        | How to Run                                                            | Video                                   |
+| :--- | :--------------- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :-------------------------------------- |
+| 0    | HTML, CSS        |<a href="https://github.com/LeoZorzoli/Books">Github</a>| Determines how many “degrees of separation” apart two actors are      | `$ python degrees.py small`                                        |
+| 0    | Search           | [Tic-Tac-Toe](tictactoe)   | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | `$ python runner.py`                                                  |
+| 1    | Knowledge        | [Knights](knights)         | Write a program to solve logic puzzles.                            | `$ python puzzle.py`                                                  |
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
-  ![Sass](https://img.shields.io/badge/-Sass-f043ca?style=flat-square&logo=sass&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-2c852f?style=flat-square&logo=django&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
