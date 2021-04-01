@@ -19,24 +19,14 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 </div>
 
 ### List of my Projects
-<ul>
-  <li>:books: First: Books - 2018 Course version <a href="https://github.com/LeoZorzoli/Books">Github</a> - :fast_forward: <a href="https://leo-books.herokuapp.com/">Live</a></li>
-  <li>:fax: Second: Flack - 2018 Course version <a href="https://github.com/LeoZorzoli/Flack">Github</a> - :fast_forward: <a href="https://leo-flack.herokuapp.com/">Live</a></li>
-  <li>:bookmark_tabs: Third : Wiki - 2020 Course version <a href="https://github.com/LeoZorzoli/Wiki">Github</a> - :fast_forward: <a href="https://leo-wiki.herokuapp.com/">Live</a></li>
-  <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com/LeoZorzoli/Network">Github</a> - :fast_forward: <a href="https://leo-network.herokuapp.com/">Live</a></li>
-  <li>:tshirt: Fifth: Commerce - 2020 Course version <a href="https://github.com/LeoZorzoli/Commerce">Github</a> - :fast_forward: <a href="https://leo-commerce.herokuapp.com/">Live</a></li>
-  <li>:newspaper: Final project: Newspaper - 2020 Course version <a href="https://github.com/LeoZorzoli/Newspaper">Github</a> - :fast_forward: <a href="https://leo-newspaper.herokuapp.com/">Live</a></li>
-</ul>
-
-### List of my Projects
 
 | Project | Name                       | Description                                                        | Demo                                                         | Video                                   |
 | :--- | :------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------------------: |
-| 1    | <a href="https://github.com/LeoZorzoli/Books">Books</a> | Determines how many “degrees of separation” apart two actors are   | <a href="https://leo-books.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=CNeXyoyiLeo">Youtube</a> |
-| 2    | <a href="https://github.com/LeoZorzoli/Flack">Flask</a> | Using Minimax, implement an AI to play Tic-Tac-Toe optimally       | <a href="https://leo-flack.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=6bWu8Z-7au8">Youtube</a> |
-| 3    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-wiki.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=O90jSuN0BcU">Youtube</a> |
-| 4    | <a href="https://github.com/LeoZorzoli/Network">Network</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-network.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=8-V2YDcNa1U">Youtube</a> |
-| 5    | <a href="https://github.com/LeoZorzoli/Commerce">Commerce</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-commerce.herokuapp.com/">Demo</a> | ---- |
-| 6    | <a href="https://github.com/LeoZorzoli/Newspaper">Newspaper</a>   | Write a program to solve logic puzzles.                            | <a href="https://leo-newspaper.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=5KNpTBDCp_U">Youtube</a> |
+| 1    | <a href="https://github.com/LeoZorzoli/Books">Books</a> | Build a book review website  | <a href="https://leo-books.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=CNeXyoyiLeo">Youtube</a> |
+| 2    | <a href="https://github.com/LeoZorzoli/Flack">Flask</a> | Build an online messaging service using Flask, similar in spirit to Slack | <a href="https://leo-flack.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=6bWu8Z-7au8">Youtube</a> |
+| 3    | <a href="https://github.com/LeoZorzoli/Wiki">Wiki</a>   | Design a Wikipedia-like online encyclopedia | <a href="https://leo-wiki.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=O90jSuN0BcU">Youtube</a> |
+| 4    | <a href="https://github.com/LeoZorzoli/Network">Network</a>   | Design a Twitter-like social network website for making posts and following users | <a href="https://leo-network.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=8-V2YDcNa1U">Youtube</a> |
+| 5    | <a href="https://github.com/LeoZorzoli/Commerce">Commerce</a>   | Design an eBay-like e-commerce auction site | <a href="https://leo-commerce.herokuapp.com/">Demo</a> | ---- |
+| 6    | <a href="https://github.com/LeoZorzoli/Newspaper">Newspaper</a>   | Final Project | <a href="https://leo-newspaper.herokuapp.com/">Demo</a> | <a href="https://www.youtube.com/watch?v=5KNpTBDCp_U">Youtube</a> |
 
 
